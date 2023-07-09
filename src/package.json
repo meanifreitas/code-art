@@ -1,8 +1,8 @@
 {
-  "name": "codeart",
+  "name": "src",
   "version": "1.0.0",
   "description": "",
-  "main": "hello.js",
+  "main": "first.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
